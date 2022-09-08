@@ -1,6 +1,7 @@
 -  My name is Jada Lewis
 -  I have solid work experience with Perl and R, and I’m currently working on advancing python programming proficiency
--  I’m looking for a new career opportunity appropriate for a seasoned professional who has been removed from data analytic work for a while
+-  I have not been employed in a data analytics position since 2017, and I’m looking for a new career opportunity to get back to work
+-  Recent python programming code I wrote this year can be found in this repository
 - 📫 How to reach me lewisjemployment@gmail.com
 
 <!---
